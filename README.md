@@ -1,5 +1,7 @@
 # hello-world
-repositorio de pruebas (En el Master solo aparecía esto)
+
+repositorio de prueba 
+(En el Master solo aparecía esto)  (Borro s de pruebas)
 
 Hi
 Después de crear el repositorio (Master) se creó esta nueva rama, copia del repositorio (Master), y se ha nombrado como readme-edits. Ahora creando cambios en esta rama), ya no será igual a Master.
